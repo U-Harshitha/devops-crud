@@ -12,3 +12,5 @@ EXPOSE 8081
 
 # Run the JAR
 ENTRYPOINT ["java", "-jar", "app.jar"]
+
+# £testint
